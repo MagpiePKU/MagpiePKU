@@ -15,7 +15,9 @@ Euler Technology, Beijing 102206, China, People's Republic of | zy@eulertechnolo
 
 ### Selected Publication
 
-- Xue L\*, He W\*, **Zhang Y**\*, Wang Z, Chen H, Chen Z, Zhu W, Liu D, Jia H, Jiang Y, Wang Z, Wu H. Origins of biallelic inactivation of NF2 in Neurofibromatosis Type 2. *Neuro-Oncology*, 2021, 16: noab287.   
+- Xue L\*, He W\*, **Zhang Y**\*, Wang Z, Chen H, Chen Z, Zhu W, Liu D, Jia H, Jiang Y, Wang Z, Wu H. Origins of biallelic inactivation of NF2 in Neurofibromatosis Type 2. *Neuro-Oncology*, 2021, 16: noab287.  
+ 
+- Wang Y, Ju L, Guo Z, Qian K, Chen H, **Zhang Y**\#, Xiao Y\#, Wang X\#. Pedigree analysis of a POLD1 germline mutation in urothelial carcinoma shows a close association between different mutation burdens and overall survival. *Cell Mol Immunol.*, 2021, 8(3):767-769.   
 
 - Qian K\*, Wang G\*, Ju L\*, Liu J, Luo Y, Wang Y, Peng T, Chen F, **Zhang Y**\#, Xiao Y\#, Wang X\#. A novel germline EGFR variant p.R831H causes predisposition to familial CDK12-mutant prostate cancer with tandem duplicator phenotype. *Oncogene*, 2020, 39(44):6871-6878.   
 

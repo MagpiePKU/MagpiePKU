@@ -15,6 +15,8 @@ Euler Technology, Beijing 102206, China, People's Republic of | zy@eulertechnolo
 
 ### Selected Publication
 
+- Xiao Y\*, Ju L\*, Qian K\*, Jin W\*, Wang G, Zhao Y, Jiang W, Liu N, Wu K, Peng M, Cao R, Li S, Shi H, Gong Y, Zheng H, Liu T, Luo Y, Ma H, Chang L, Li G, Cao X, Tian Y, Xu Z, Yang Z, Shan L, Guo Z, Yao D, Zhou X, Chen X, Guo Z, Liu D, Xu S, Ji C, Yu F, Hong X, Luo J, Cao H, **Zhang Y**\#, Wang X\#. Non-invasive diagnosis and surveillance of bladder cancer with driver and passenger DNA methylation in a prospective cohort study. Clin Transl Med., 2022, 12(8):e1008. 
+
 - Xue L\*, He W\*, **Zhang Y**\*, Wang Z, Chen H, Chen Z, Zhu W, Liu D, Jia H, Jiang Y, Wang Z, Wu H. Origins of biallelic inactivation of NF2 in Neurofibromatosis Type 2. *Neuro-Oncology*, 2021, 16: noab287.  
  
 - Wang Y, Ju L, Guo Z, Qian K, Chen H, **Zhang Y**\#, Xiao Y\#, Wang X\#. Pedigree analysis of a POLD1 germline mutation in urothelial carcinoma shows a close association between different mutation burdens and overall survival. *Cell Mol Immunol.*, 2021, 8(3):767-769.   

@@ -31,7 +31,7 @@ Euler Technology, Beijing 102206, China, People's Republic of | zy@eulertechnolo
 
 - Kang L, Liu Y, Jin Y, Li M, Song J, **Zhang Y**, Zhang Y, Yang YL. Mutations of MACF1, Encoding Microtubule-Actin Crosslinking-Factor 1, Cause Spectraplakinopathy. *Frontiers in Neurology*, 2020, 10:1335. 
 
-- Zhang Y\*, **Zhang Y**\*, Zhang VW, Zhang C, Ding H, Yin A. Mutations in both SAMD9 and SLC19A2 genes caused complex phenotypes characterized by recurrent infection, dysphagia and profound deafness - a case report for dual diagnosis. BMC Pediatr. 2019 Oct 21;19(1):364. doi: 10.1186/s12887-019-1733-y. PMID: 31638924; PMCID: PMC6802302.
+- Zhang Y\*, **Zhang Y**\*, Zhang VW, Zhang C, Ding H, Yin A. Mutations in both SAMD9 and SLC19A2 genes caused complex phenotypes characterized by recurrent infection, dysphagia and profound deafness - a case report for dual diagnosis. BMC Pediatr. 2019 Oct 21;19(1):364.
 
 - Yu X, Yang L, Li J, Li W, Li D, Wang R, Wu K, Chen W, **Zhang Y**\#, Qiu Z\#, Zhou W\#. De Novo and Inherited SETD1A Variants in Early-onset Epilepsy. *Neuroscience Bulletin*, 2019, 35(6):1045-1057.  
 

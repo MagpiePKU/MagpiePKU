@@ -25,11 +25,17 @@ Euler Technology, Beijing 102206, China, People's Republic of | zy@eulertechnolo
  
 - Wang Y, Ju L, Guo Z, Qian K, Chen H, **Zhang Y**\#, Xiao Y\#, Wang X\#. Pedigree analysis of a POLD1 germline mutation in urothelial carcinoma shows a close association between different mutation burdens and overall survival. *Cell Mol Immunol.*, 2021, 8(3):767-769.   
 
+- Chen C\*, **Zhang Y**\*, Huang J\*, Yin P\*, Cheng Z, Wu J, Chen S, Zhang Y, Chen B, Lu M, Luo Y, Ju L, Zhang J, Wang X. Favipiravir Versus Arbidol for Clinical Recovery Rate in Moderate and Severe Adult COVID-19 Patients: A Prospective, Multicenter, Open-Label, Randomized Controlled Clinical Trial. Front Pharmacol. 2021 Sep 2;12:683296.
+
 - Qian K\*, Wang G\*, Ju L\*, Liu J, Luo Y, Wang Y, Peng T, Chen F, **Zhang Y**\#, Xiao Y\#, Wang X\#. A novel germline EGFR variant p.R831H causes predisposition to familial CDK12-mutant prostate cancer with tandem duplicator phenotype. *Oncogene*, 2020, 39(44):6871-6878.   
 
 - Kang L, Liu Y, Jin Y, Li M, Song J, **Zhang Y**, Zhang Y, Yang YL. Mutations of MACF1, Encoding Microtubule-Actin Crosslinking-Factor 1, Cause Spectraplakinopathy. *Frontiers in Neurology*, 2020, 10:1335. 
 
+- Zhang Y\*, **Zhang Y**\*, Zhang VW, Zhang C, Ding H, Yin A. Mutations in both SAMD9 and SLC19A2 genes caused complex phenotypes characterized by recurrent infection, dysphagia and profound deafness - a case report for dual diagnosis. BMC Pediatr. 2019 Oct 21;19(1):364. doi: 10.1186/s12887-019-1733-y. PMID: 31638924; PMCID: PMC6802302.
+
 - Yu X, Yang L, Li J, Li W, Li D, Wang R, Wu K, Chen W, **Zhang Y**\#, Qiu Z\#, Zhou W\#. De Novo and Inherited SETD1A Variants in Early-onset Epilepsy. *Neuroscience Bulletin*, 2019, 35(6):1045-1057.  
+
+- Wen Z, Cheng TL, Li GZ, Sun SB, Yu SY, **Zhang Y**\#, Du YS\#, Qiu Z\#. Identification of autism-related MECP2 mutations by whole-exome sequencing and functional validation. Mol Autism. 2017 Aug 3;8:43. 
 
 - Wen Z, Cheng TL, Yin DZ, Sun SB, Wang Z, Yu SY, **Zhang Y**\#, Qiu Z\#. Du YS\#. Identification of the Genetic Cause for Childhood Disintegrative Disorder by Whole-Exome Sequencing. *Neuroscience Bulletin*, 2017, 33(2):251-254.  
 

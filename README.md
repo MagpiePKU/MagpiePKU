@@ -15,6 +15,8 @@ Euler Technology, Beijing 102206, China, People's Republic of | zy@eulertechnolo
 
 ### Selected Publication
 
+- Wang Y, Ju L, Wang G, Qian K, Jin W, Li M, Yu J, Shi Y, Wang Y, **Zhang Y**\#, Xiao Y\#, Wang X\#. DNA polymerase POLD1 promotes proliferation and metastasis of bladder cancer by stabilizing MYC. Nat Commun. 2023 Apr 27;14(1):2421.
+
 - Xiao Y\*, Wang X\*, Weng H\*, Ding Z\*, Qian K\*, Jin W, Lu S, Ju L, He Z, Wang G, Xie X, Liu D, Fan Z, Wu K, Li S, Guo H, Qian G, Jiang W, Leng Y, Zhao J, Cao X, Peng M, Jiang C\#, Li L\#, **Zhang Y**\#, Wang X\#. Ultrasensitive tumour-agnostic non-invasive detection of colorectal cancer recurrence using ctDNA methylation. Clin Transl Med. 2022 Sep;12(9):e1015. 
 
 - Xiao Y\*, Ju L\*, Qian K\*, Jin W\*, Wang G, Zhao Y, Jiang W, Liu N, Wu K, Peng M, Cao R, Li S, Shi H, Gong Y, Zheng H, Liu T, Luo Y, Ma H, Chang L, Li G, Cao X, Tian Y, Xu Z, Yang Z, Shan L, Guo Z, Yao D, Zhou X, Chen X, Guo Z, Liu D, Xu S, Ji C, Yu F, Hong X, Luo J, Cao H, **Zhang Y**\#, Wang X\#. Non-invasive diagnosis and surveillance of bladder cancer with driver and passenger DNA methylation in a prospective cohort study. Clin Transl Med., 2022, 12(8):e1008. 

@@ -17,7 +17,7 @@ Euler Technology, Beijing 102206, China, People's Republic of | zy@eulertechnolo
 
 - Xiao Y\*, Jin W\*, Ju L\*, Fu J\*, Wang G, Yu MX, Chen FJ, Qian KY, Wang XH\#, **Zhang Y**\#. Tracking single-cell evolution using clock-like chromatin accessibility loci. Nat. Biotechnol. 2024 May 9; doi: 10.1038/s41587-024-02241-z.
 
-- Gong XL\*, He W\*, Jin W\*, Ma HW\*, Wang G\*, Li JX\*, Xiao Y, Zhao YY, Chen Q, Guo HH, Yang JX, Qi YM, Dong W, Fu M, Li XJ, Liu JS, Liu XH\#, Yin AH\#, **Zhang Y**\#, Wei Y\#. Diruption of maternal vascular remodeling by a fetal endoretrovirus-derived gene in preeclampsia. Genome Biol. 2024 May 7; 25:117. 
+- Gong XL\*, He W\*, Jin W\*, Ma HW\*, Wang G\*, Li JX\*, Xiao Y, Zhao YY, Chen Q, Guo HH, Yang JX, Qi YM, Dong W, Fu M, Li XJ, Liu JS, Liu XH\#, Yin AH\#, **Zhang Y**\#, Wei Y\#. Disruption of maternal vascular remodeling by a fetal endoretrovirus-derived gene in preeclampsia. Genome Biol. 2024 May 7; 25:117. 
 
 - Xiao Y\*, Ju L\*, Qian K\*, Jin W\*, Wang G, Zhao Y, Jiang W, Liu N, Wu K, Peng M, Cao R, Li S, Shi H, Gong Y, Zheng H, Liu T, Luo Y, Ma H, Chang L, Li G, Cao X, Tian Y, Xu Z, Yang Z, Shan L, Guo Z, Yao D, Zhou X, Chen X, Guo Z, Liu D, Xu S, Ji C, Yu F, Hong X, Luo J, Cao H, **Zhang Y**\#, Wang X\#. Non-invasive diagnosis and surveillance of bladder cancer with driver and passenger DNA methylation in a prospective cohort study. Clin Transl Med., 2022, 12(8):e1008. 
 

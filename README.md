@@ -1,6 +1,6 @@
 ## Zhang, Yi
 
-I and my colleagues study biological evolution.  
+I and my colleagues develop computational and experimental tools for "molecular archaeology": these methods facilitate identifying and dating important molecular events in development, disease, and evolution. 
 
 Euler Technology, Beijing 102206, China, People's Republic of | zy@eulertechnology.com
 

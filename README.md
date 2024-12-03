@@ -2,7 +2,7 @@
 
 I and my colleagues develop computational and experimental tools for "molecular archaeology": these methods facilitate identifying and dating important molecular events in development, disease, and evolution. 
 
-Euler Technology, Beijing 102206, China, People's Republic of | zy@eulertechnology.com
+Beijing 102206, China, People's Republic of | c.sinensis@gmail.com 
 
 ****
 
